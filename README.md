@@ -32,7 +32,6 @@ Welcome to the **DSA0302: Natural Language Processing** repository by **Ravilla 
 ```text
 DSA0302-NLP/
 ├── README.md                              # Master Repository Portfolio Landing Page (this file)
-├── .gitignore                             # Python, Jupyter, & VirtualEnv exclusions
 │
 ├── Assessments/                           # Academic Coursework Assessments & Coding Challenges
 │   ├── README.md                          # Assessments Index & Overview
